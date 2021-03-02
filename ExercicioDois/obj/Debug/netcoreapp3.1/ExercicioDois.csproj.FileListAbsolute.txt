@@ -1,0 +1,13 @@
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\bin\Debug\netcoreapp3.1\ExercicioDois.exe
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\bin\Debug\netcoreapp3.1\ExercicioDois.deps.json
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\bin\Debug\netcoreapp3.1\ExercicioDois.runtimeconfig.json
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\bin\Debug\netcoreapp3.1\ExercicioDois.runtimeconfig.dev.json
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\bin\Debug\netcoreapp3.1\ExercicioDois.dll
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\bin\Debug\netcoreapp3.1\ExercicioDois.pdb
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\obj\Debug\netcoreapp3.1\ExercicioDois.csprojAssemblyReference.cache
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\obj\Debug\netcoreapp3.1\ExercicioDois.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\obj\Debug\netcoreapp3.1\ExercicioDois.AssemblyInfo.cs
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\obj\Debug\netcoreapp3.1\ExercicioDois.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\obj\Debug\netcoreapp3.1\ExercicioDois.dll
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\obj\Debug\netcoreapp3.1\ExercicioDois.pdb
+C:\Users\user\Documents\ws-c#\ExercicioDois\ExercicioDois\obj\Debug\netcoreapp3.1\ExercicioDois.genruntimeconfig.cache
